@@ -1,0 +1,26 @@
+/* ----------------------------- LIBRERÍA CSS DE BOOTSTRAP ------------------------------ */
+@import url('./Bootstrap/bootstrap.css');
+@import url('./Bootstrap/bootstrap.min.css');
+@import url('./Bootstrap/bootstrap.css.map');
+@import url('./Bootstrap/bootstrap-grid.css');
+@import url('./Bootstrap/bootstrap-reboot.css');
+@import url('./Bootstrap/bootstrap.min.css.map');
+@import url('./Bootstrap/bootstrap-grid.css.map');
+@import url('./Bootstrap/bootstrap-grid.min.css');
+@import url('./Bootstrap/bootstrap-reboot.min.css');
+@import url('./Bootstrap/bootstrap-reboot.css.map');
+@import url('./Bootstrap/bootstrap-grid.min.css.map');
+@import url('./Bootstrap/bootstrap-reboot.min.css.map');
+
+/* ----------------------------- LIBRERÍA CSS DE SWEETALERT2 ----------------------------- */
+@import url('./Sweetalert/sweetalert2.css');
+@import url('./Sweetalert/sweetalert2.min.css');
+
+/* -------------------------------------- TEMPLATES -------------------------------------- */
+@import url('../templates/formatoHv.css');
+
+/* ---------------------------------------- FONTS ---------------------------------------- */
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url('https://allfont.es/allfont.css?fonts=montserrat');
+}
